@@ -1,4 +1,4 @@
-# React Socket IO Chat-app Example
+# React Socket IO Chat-app
 A simple real-time chat application implementation using Socket.io, Node and React.
 
 ![Screenshot of demo](./screenshot.png)
